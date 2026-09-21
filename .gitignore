@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# local admin data (uses Supabase in production)
+.admin-data
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
