@@ -1,0 +1,18 @@
+[
+  {
+    "id": "mu8pidpwy5yfy",
+    "fecha": "2026-09-19",
+    "descripcion": "1kg lana",
+    "monto": 30000,
+    "categoria": "venta",
+    "creado": "2026-09-19T18:14:17.588Z"
+  },
+  {
+    "id": "mu8svspgs2too",
+    "fecha": "2026-09-19",
+    "descripcion": "Medias",
+    "monto": 4000,
+    "categoria": "venta",
+    "creado": "2026-09-19T19:48:42.388Z"
+  }
+]

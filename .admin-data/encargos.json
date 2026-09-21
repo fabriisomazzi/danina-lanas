@@ -1,0 +1,13 @@
+[
+  {
+    "id": "mu8qx4wnx04ww",
+    "fecha": "2026-09-25",
+    "cliente": "pepe",
+    "telefono": "213123",
+    "descripcion": "bufanda azul",
+    "monto": 50000,
+    "estado": "pendiente",
+    "notas": "",
+    "creado": "2026-09-19T18:53:45.623Z"
+  }
+]
